@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 In this template we have implemented a simple example of angular forms with validation. It will help you to understand thw working of reactive forms in angular.
 
-Repository to go along with my blog - View blog post
+Repository to go along with my blog - https://blog.nashtechglobal.com/angular-forms-and-validation/
 
 ## Development server
 
